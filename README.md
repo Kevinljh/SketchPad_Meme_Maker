@@ -1,2 +1,2 @@
 # SketchPad_Meme_Maker
-![alt tag](SketchPad_Meme_Maker/SketchPad.png)
+![alt tag](https://github.com/Kevinljh/SketchPad_Meme_Maker/blob/master/SketchPad.png)
