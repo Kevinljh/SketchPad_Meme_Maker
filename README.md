@@ -1,2 +1,2 @@
 # SketchPad_Meme_Maker
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt tag](SketchPad_Meme_Maker/SketchPad.png)
